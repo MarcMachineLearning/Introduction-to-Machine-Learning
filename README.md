@@ -26,7 +26,7 @@ Included is a tutorial in the form of Jupyter notebooks. The main purpose of the
 
 **1)** To use our module, sign into your Google Cloud Account, make sure you are in the **"nosi-sfsu-mlclass"** project, if not you can try to find it by clicking the down arrow next to the project name which would bring you into a separate menu where this project name should be listed. Then type in the search bar "workbench", make sure you select the one called **"Workbench Vertex AI"** as in the picture above.
 
-![GCP Console Menu.PNG](images/GCP%20Console%20Menu.PNG)
+![GCP Console Menu.PNG](images/GCP%20Console%20Menu.png)
 
 **2)** Create a New Notebook and make sure you choose the first option that says **Customize...** in the menu within Workbench/ Vertex AI, like in the example shown in the picture below. This should take you to a new menu with advanced options to customize your notebook.
 
