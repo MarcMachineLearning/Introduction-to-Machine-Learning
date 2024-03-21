@@ -5,5 +5,5 @@ and Google Colab, which means that all a student needs to participate is a brows
 and friendly videos by the makers of this material. Surveys at San Francisco State University showed that after doing the tutorial, biology and chemistry students were interested to learn more about machine learning.
 Below we can see some of these results.
 
-![Results from GCP](https://github.com/MarcMachineLearning/Introduction-to-Machine-Learning/assets/95002493/c5c5c2eb-1c12-428b-98e0-8fec035bcfc1)
+![Results from GCP](https://github.com/MarcMachineLearning/Introduction-to-Machine-Learning/blob/main/Images/Pre_post%20Surveys.jpg)
 
